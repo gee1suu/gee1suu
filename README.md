@@ -16,5 +16,6 @@
 
 🏅 Algorithm Gold Level. 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gee1suu)](https://solved.ac/gee1suu/)  
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=gee1suu)](https://solved.ac/gee1suu)  
 Programmers - Lv1  
