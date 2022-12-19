@@ -1,6 +1,6 @@
 ### Hi there, I'm Jisu An 👋
 
-#### Web Backend Developer
+#### Web Developer
 
 ***
 
