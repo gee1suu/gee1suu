@@ -14,8 +14,16 @@
 
 ![Jisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gee1suu&show_icons=true)
 
-🏅 Algorithm Gold Level. 
+🏅 Algorithm Gold Level  
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=gee1suu)](https://solved.ac/gee1suu)  
 Programmers - Lv1  
+
+📂 Projects
+|Date|Name|Link|
+|---|---|---|
+|2021.09.01 ~ 2022.05.07|여드름 진단 및 관리 앱 'Dr.P'|[🔗](https://github.com/gee1suu/dr.p)|
+|2022.08.19 ~ 2022.08.25|영화 예매 프로그램|[🔗](https://github.com/gee1suu/movie-booking)|
+|2022.10.14 ~ 2022.10.31|인테리어 플랫폼 '모두의집'|[🔗](https://github.com/gee1suu/our-house)|
+|2022.11.15 ~ 2022.12.15|IT 강의 플랫폼 '아웃풋런'|[🔗](https://github.com/gee1suu/outflearn)|
