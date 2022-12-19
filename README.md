@@ -14,11 +14,11 @@
 
 ![Jisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gee1suu&show_icons=true)
 
-🏅 Algorithm Gold Level  
+🏅 Algorithm Level  
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=gee1suu)](https://solved.ac/gee1suu)  
-Programmers - Lv1  
+[Programmers - Lv1](https://github.com/gee1suu/CodingTest)  
 
 📂 Projects
 |Date|Name|Link|
